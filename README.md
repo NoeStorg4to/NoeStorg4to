@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 ¡Hola! Soy NoeStorg4to
+# 👋 ¡Hola! Soy Noe
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Apasionado+por+la+Programaci%C3%B3n;Creando+proyectos+increíbles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desarrolladora+Full+Stack;Apasionada+por+la+Programaci%C3%B3n;Creando+proyectos+increíbles" alt="Typing SVG" />
 </div>
 
 <div align="center">
